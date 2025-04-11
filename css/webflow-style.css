@@ -5075,7 +5075,7 @@ ul {
   grid-row-gap: 16px;
   opacity: 0;
   pointer-events: none;
-  background-image: linear-gradient(#000, #e57045);
+  background-image: linear-gradient(#000, #AC83FB);
   grid-template-rows: auto auto;
   grid-template-columns: 1fr 1fr;
   grid-auto-columns: 1fr;
@@ -5089,19 +5089,19 @@ ul {
   z-index: 0;
   opacity: 0;
   background-color: #000;
-  background-image: linear-gradient(#000, #bf5039);
+  background-image: linear-gradient(#000, #7BBCDA);
 }
 
 .menu-background.yellow {
-  background-image: linear-gradient(#000, #bf8130);
+  background-image: linear-gradient(#000, #E11B26);
 }
 
 .menu-background.sky-blue {
-  background-image: linear-gradient(#000, #33c3ff);
+  background-image: linear-gradient(#000, #6C9B84);
 }
 
 .menu-background.cyan {
-  background-image: linear-gradient(#000, #01c3d9);
+  background-image: linear-gradient(#000, #e5b414);
 }
 
 .menu-background.blue {
@@ -5199,7 +5199,7 @@ ul {
 .menu-initial-bg {
   z-index: -1;
   pointer-events: none;
-  background-image: linear-gradient(#000, #e57045);
+  background-image: linear-gradient(#000, #c05021);
   width: 100%;
   height: 100%;
   position: fixed;
